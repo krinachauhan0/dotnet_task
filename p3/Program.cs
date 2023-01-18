@@ -1,19 +1,23 @@
 ﻿using System;
 
-namespace Loop
+namespace FactorialNumber
 {
-	class ForLoop
-	{
-		public void Main(string[] args)
-		{
-			int n = 5,sum = 0;
+    class Program
+    {
 
-			for (int i=1; i<=n; i--)
-			{
-				sum = sum + i;
-			}
+        static void Main(string[] args)
+        {
+            Console.Write("Enter the Number : ");
+            int number = Convert.ToInt32(Console.ReadLine());
+            int fact = 1;
+            for (int i = 1; i <= number; i++)
+            {
+                fact = fact * i;
 
-			Console.WriteLine("Sum of first {0} natural numbers = {1}", n, sum);
-		}
-	}
+            }
+            Console.WriteLine("Factorial number is : "  + fact);
+			Console.ReadLine();
+        }
+
+    }
 }

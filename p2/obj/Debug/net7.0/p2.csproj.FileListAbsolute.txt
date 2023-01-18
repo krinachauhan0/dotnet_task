@@ -1,0 +1,15 @@
+C:\Users\krina.c\dotnet_task\p2\bin\Debug\net7.0\p2.exe
+C:\Users\krina.c\dotnet_task\p2\bin\Debug\net7.0\p2.deps.json
+C:\Users\krina.c\dotnet_task\p2\bin\Debug\net7.0\p2.runtimeconfig.json
+C:\Users\krina.c\dotnet_task\p2\bin\Debug\net7.0\p2.dll
+C:\Users\krina.c\dotnet_task\p2\bin\Debug\net7.0\p2.pdb
+C:\Users\krina.c\dotnet_task\p2\obj\Debug\net7.0\p2.csproj.AssemblyReference.cache
+C:\Users\krina.c\dotnet_task\p2\obj\Debug\net7.0\p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krina.c\dotnet_task\p2\obj\Debug\net7.0\p2.AssemblyInfoInputs.cache
+C:\Users\krina.c\dotnet_task\p2\obj\Debug\net7.0\p2.AssemblyInfo.cs
+C:\Users\krina.c\dotnet_task\p2\obj\Debug\net7.0\p2.csproj.CoreCompileInputs.cache
+C:\Users\krina.c\dotnet_task\p2\obj\Debug\net7.0\p2.dll
+C:\Users\krina.c\dotnet_task\p2\obj\Debug\net7.0\refint\p2.dll
+C:\Users\krina.c\dotnet_task\p2\obj\Debug\net7.0\p2.pdb
+C:\Users\krina.c\dotnet_task\p2\obj\Debug\net7.0\p2.genruntimeconfig.cache
+C:\Users\krina.c\dotnet_task\p2\obj\Debug\net7.0\ref\p2.dll
